@@ -1,8 +1,8 @@
-body{background-color:rgb(94, 79, 79); text-align: center}
+body{background-color:rgb(5, 0, 0); text-align: center}
 form {max-widht: 500px;
 text-align: left;
 padding: 15px;
-border: 2px solid rgb(165, 46, 46);
+border: 2px solid rgb(163, 70, 70);
 border-radius:10px;
 margin: auto}
 input {padding: 5px;
